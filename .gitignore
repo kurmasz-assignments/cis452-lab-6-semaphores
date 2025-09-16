@@ -1,0 +1,13 @@
+a.out
+*.a
+*.o
+*.so
+*.dylib
+*.gch
+core
+core.*
+*~
+.DS_Store
+.vscode/
+.idea/
+build/
